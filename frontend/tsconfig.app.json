@@ -23,5 +23,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src"]
+  "include": ["src", "src/utils/data.ts", "src/utils/uploadImage.ts", "src/utils/helper.ts"]
 }
